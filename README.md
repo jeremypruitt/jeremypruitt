@@ -8,5 +8,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=I'm+a+Software+Engineer;I'm+a+DevOps+Engineer;I'm+a+Cloud+Architect;I'm+an+Engineering+Leader;I'm+an+Infrastructure+Engineer)](https://git.io/typing-svg)
 
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=jeremypruitt&show_icons=true&theme=tokyonight&hide=contribs)
+
 ## Leetcode Stats
 [![LeetCode Stats](https://leetcode.card.workers.dev/jeremypruitt?theme=nord&font=baloo&extension=activity)](https://leetcode.com/jeremypruitt/)
