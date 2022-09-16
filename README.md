@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jeremypruitt)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jeremypruitt?color=1DA1F2&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/jeremypruitt)
-[![Leetcode Profile](https://img.shields.io/badge/Streak-102-orange?logoColor=orange&style=for-the-badge&logo=leetcode)](https://leetcode.com/jeremypruitt/)
+[![Leetcode Profile](https://img.shields.io/badge/Streak-130-orange?logoColor=orange&style=for-the-badge&logo=leetcode)](https://leetcode.com/jeremypruitt/)
 [![](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=orange&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjeremypruitt&logo=leetcode&logoColor=orange)](https://leetcode.com/jeremypruitt/)
 [![](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=orange&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjeremypruitt&logo=leetcode&logoColor=orange)](https://leetcode.com/jeremypruitt/)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzy_THI0vc42g-6Fh2p40yw?logo=youtube&logoColor=red&style=for-the-badge&label=YouTube)](https://www.youtube.com/c/TrailsWeHike)
